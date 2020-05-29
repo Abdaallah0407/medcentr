@@ -1,0 +1,47 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  color: blue;
+}
+
+.form-client {
+  display: flex;
+  margin: 0 50px;
+  width: 400px;
+}
+.user_profile {
+  margin-left: auto;
+}
+.user_img {
+  margin-bottom: 15px;
+}
+.users_img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.user_imgas {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+.come {
+  position: absolute;
+  top: 120%;
+  left: -110px;
+}
+.user_name {
+  text-align: center;
+}
+.ico {
+  margin-right: 10px;
+  font-size: 18px;
+}
+.dropdown-item {
+  align-items: center;
+  font-size: 14px;
+  color: #494c57;
+}

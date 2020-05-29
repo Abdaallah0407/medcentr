@@ -9594,7 +9594,7 @@ textarea.parsley-success:focus {
     .az-header .container {
       max-width: none; } }
   .az-header .az-logo {
-    display: none; }
+    display: block; }
     @media (min-width: 992px) {
       .az-header .az-logo {
         display: block; } }
